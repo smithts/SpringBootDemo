@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.bash_profile.save
 
 ### NetBeans ###
 /nbproject/private/
